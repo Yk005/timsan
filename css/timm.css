@@ -67,3 +67,13 @@ color: white;
   color: white;
   background-color: #43A047;
 }
+
+footer{
+  border-radius: 10px 10px 10px 10px;
+}
+
+#foot{
+  color: white;
+  margin-top: 10px;
+  font-size: 15px;
+}
